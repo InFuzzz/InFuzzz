@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @InFuzz
-- 🇫🇷 I'm a french developper
+- 💎 I'm a french developper
+- 🔧 Currently working for MyProtect, MyHeberg, ABW & Lya.app
 - 🌱 I’m currently learning HTML, CSS & PHP
-- 📫 You can reach me at mycorpfr@gmail.com
+- 📫 You can reach me at infuzz@myprotect.net or on discord: infuzz_
