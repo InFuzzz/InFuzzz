@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InFuzz
 - 💎 I'm a french developper
-- 🔧 Currently working for MyProtect, MyHeberg, ABW & Lya.app
+- 🔧 Currently working for MyProtect & Zeldorium Faction (MCPE Server)
 - 🌱 I’m currently learning HTML, CSS & PHP
-- 📫 You can reach me at infuzz@myprotect.net or on discord: infuzz_
+- 📫 You can reach me at mmonfray4@gmail.com
