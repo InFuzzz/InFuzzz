@@ -8,13 +8,14 @@
   </a>
 </p>
 
-- 🔭 Je travaille actuellement sur **MyProtect et Zeldorium Faction (Serveur MCPE)**
+- 🔔 Je possède un bot discord certifié : **MyProtect**
+- 🔭 Je travaille actuellement sur **Zeldorium (Serveur MCPE)**
 - 🌱 J'apprends actuellement **le Kotlin, le C, le CSS et le PHP**
 - 💬 Vous pouvez me demander **de développer des bots Discord, des API, de la configuration de machines quelconques ou encore le développement d'un site internet**
 
 <h3 align="left">Me contacter</h3>
 <p align="left">
-  <a href="https://instagram.com/mmonfray_" target="blank">
+  <a href="https://instagram.com/mfr4y_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmonfray_" height="30" width="40" />
   </a>
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="infuzzz" height="30" width="40" />
