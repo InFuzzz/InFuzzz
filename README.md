@@ -10,7 +10,7 @@
 </p>
 
 - 🔔 Je possède un bot discord certifié : **MyProtect**
-- 🔭 Je travaille actuellement sur **Zeldorium (Serveur MCPE)**
+- 🔭 Je travaille actuellement sur **[Zeldorium (Serveur MCPE)](https://discord.gg/zeldorium)**
 - 🌱 J'apprends actuellement **le Kotlin, le C, le CSS et le PHP**
 - 💬 Vous pouvez me demander **de développer des bots Discord, des API, de la configuration de machines quelconques ou
 encore le développement d'un site internet**
